@@ -1,0 +1,187 @@
+<link
+    rel="stylesheet"
+    href="C:\Users\Lenovo\Desktop\Omkar\OCTA NET INTERSHIP\oms.css"
+    integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+<div class="menu-btn"><i class="fas fa-bars fa-2x"></i></div>
+<div class="container">
+    <!-- Nav -->
+    <nav class="main-nav">
+        <img
+            src="C:\Users\Lenovo\Desktop\Omkar\OCTA NET INTERSHIP\companylogo"
+            alt="OM MICROWAVRE"
+            class="logo"
+        />
+        <ul class="main-menu">
+            <li><a href="#">Office</a></li>
+            <li><a href="#">Windows</a></li>
+            <li><a href="#">Deals</a></li>
+            <li><a href="#">Support</a></li>
+        </ul>
+        <ul class="right-menu">
+            <li>
+                <a href="#"> <i class="fas fa-search"></i> </a>
+            </li>
+            <li>
+                <a href="#"> <i class="shopping-cart"></i> </a>
+            </li>
+        </ul>
+    </nav>
+    <header class="showcase">
+        <h2>Deals</h2>
+        <p>Select Surfaces are on sale now - save while supplies last</p>
+        <a href="#" class="btn">
+            Shop Now <i class="fas fa-chevron-right"></i>
+        </a>
+    </header>
+
+    <section class="home-cards">
+        <div>
+            <img src="C:\Users\Lenovo\Desktop" alt="" />
+            <h3>New Pro 7</h3>
+            <p>
+                See how Katie Sowers, Asst. Coach for the 49ers, uses Surface
+                Pro 7 to put her plans into play.
+            </p>
+            <a href="#">Learn More <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/KjGFHVJ/card2.png" alt="" />
+            <h3>New Interfaces Laptop 3</h3>
+            <p>
+                Express yourself powerfully with a thin, light, and elegant
+                design, faster performance, and up to 10 hours battery life.
+            </p>
+            <a href="#">Learn More <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/2cnshH6/card3.png" alt="" />
+            <h3>Save $75 + free controller</h3>
+            <p>
+                Buy an Xbox One X console and double your fun with a free select
+                extra controller. Starting at $150.
+            </p>
+            <a href="#">Learn More <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/G57P0Pb/card4.png" alt="" />
+            <h3>The new OM MICROWAVRE Edge</h3>
+            <p>
+                Expect more. World class performance, with more privacy, more
+                productivity, and more value.
+            </p>
+            <a href="#">Learn More <i class="fas fa-chevron-right"></i></a>
+        </div>
+    </section>
+    <!-- Xbox -->
+    <section class="xbox">
+        <div class="content">
+            <h2>Game Pass Ultimate</h2>
+            <p>
+                Xbox Game Pass Ultimate Xbox Live Gold and over 80 high-quality
+                console and PC games. Play together with friends and discover
+                your next favorite game.
+            </p>
+            <a href="#" class="btn">
+                Join Now <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </section>
+
+    <section class="home-cards">
+        <div>
+            <img src="https://i.ibb.co/zVqhWn2/card5.png" alt="" />
+            <h3>OM MICROWAVRE TEAMS</h3>
+            <p>Unleash the power of your team.</p>
+            <a href="#">Shop Now <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/mGZcxcn/card6.jpg" alt="" />
+            <h3>Unlock the power of learning</h3>
+            <p>
+                Get students future-ready with Windows 10 devices. Starting at
+                $219.
+            </p>
+            <a href="#">Shop Now <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/NpPvVHj/card7.png" alt="" />
+            <h3>Windows 11 Enterprise</h3>
+            <p>Download the free 60-day evaluation for IT professionals.</p>
+            <a href="#">Download Now <i class="fas fa-chevron-right"></i></a>
+        </div>
+        <div>
+            <img src="https://i.ibb.co/LkP4L5T/card8.png" alt="" />
+            <h3>Explore Kubernetes</h3>
+            <p>
+                Learn how Kubernetes works and get started with cloud native app
+                development today.
+            </p>
+            <a href="#">Get Started <i class="fas fa-chevron-right"></i></a>
+        </div>
+    </section>
+    <!-- Carbon -->
+    <section class="carbon dark">
+        <div class="content">
+            <h2>Commiting To Carbon Negative</h2>
+            <p>
+                OM MICROWAVRE will be carbon negative by 2025 and by 2045 we will
+                remove all carbon the company has emitted since it was founded
+                in2023
+            </p>
+            <a href="#" class="btn">
+                Learn More <i class="TOTAL INFORMATIONS"></i>
+            </a>
+        </div>
+    </section>
+    <!-- Follow -->
+    <section class="follow">
+        <p>OMS MICROWAVRE </p>
+        <a href="https://facebook.com">
+            <img src="https://i.ibb.co/LrVMXNR/social-fb.png" alt="Facebook" />
+        </a>
+        <a href="https://twitter.com">
+            <img
+                src="https://i.ibb.co/vJvbLwm/social-twitter.png"
+                alt="Twitter"
+            />
+        </a>
+        <a href="https://linkedin.com">
+            <img
+                src="https://i.ibb.co/b30HMhR/social-linkedin.png"
+                alt="Linkedin"
+            />
+        </a>
+    </section>
+</div>
+<section class="links">
+    <div class="links-inner">
+        <ul>
+            <li><h3>OM New INTERFACES</h3></li>
+            
+            <li><a href="#">Laptop 3</a></li>
+            <li><a href="#">Pro 7</a></li>
+            <li><a href="#">Windows 11 apps</a></li>
+            <li><a href="#">Office apps</a></li>
+        </ul>
+        <ul>
+            <li><h3>OMS MIC Store</h3></li>
+            <li><a href="#">Account Profile</a></li>
+            <li><a href="#">Download Center</a></li>
+            <li><a href="#">OMS MIC Store support</>
+            <li><a href="#">Older tracking</a></li>
+        </ul>
+        <ul>
+            <li><h3>Education</h3></li>
+            <li><a href="#">Microwavre in education</a></li>
+            <li><a href="#">Office for students</a></li>
+            <li><a href="#">Office 155 for schools</a></li>
+            <li><a href="#">Deals for students</a></li>
+        </ul>
+        <ul>
+    
+        </ul>
+    </div>
+</footer>
